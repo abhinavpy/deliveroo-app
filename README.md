@@ -20,6 +20,9 @@ module.exports = {
   // ...
 };
 
+## 3. Setting up React Native Navigation
+https://reactnavigation.org/docs/getting-started/
+
 
 
 
